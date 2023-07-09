@@ -1,5 +1,7 @@
 /* universal styles  */
 body{
+    margin: 0px;
+    padding: 0px;
     font-family: sans-serif;
 }
 /* header styles starts here  */
@@ -101,7 +103,7 @@ body{
     width: 1140px;
     height: 300px;
     border-radius: 8px;
-    background-image: url('../images/watch.png');
+    background-image: url('../images/watch.png'), url('../images/gradient2.png');
     /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%); */
     margin: 130px 230px 130px 400px;
     position: relative;
